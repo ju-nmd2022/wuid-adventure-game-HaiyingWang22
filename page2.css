@@ -1,0 +1,93 @@
+body
+{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: #FFFFFF;
+    background: url("mainpage.png")  no-repeat;
+}
+#Carpet
+{
+    position: absolute;
+    width: 494px;
+    height: 313px;
+    left: 922px;
+    top: 408px;
+}
+#tool
+{
+    position: absolute;
+    width: 532px;
+    height: 109px;
+    left: 0px;
+    top: 0px;
+    background: #D9D9D9;
+    border-radius: 0px 0px 15px 0px;
+}
+.box1,.box2,.box3,.box4,.box5
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    
+}
+.box1
+{
+    left: 698px;
+    top: 110px;
+}
+.box2
+{
+    left: 770px;
+    top: 110px;
+}
+.box3
+{
+    left: 735px;
+    top: 216px;
+}
+.box4
+{
+    left: 807px;
+    top: 216px;
+}
+#box5
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 663px;
+    top: 216px;
+}
+#chair
+{
+    position: absolute;
+    width: 277.88px;
+    height: 208.41px;
+    left: 1620px;
+    top: 116px;
+}
+.ID
+{
+    position: absolute;
+    width: 80px;
+    height: 66.67px;
+    left: 69px;
+    top: 21px;
+}
+.dice
+{
+    position: absolute;
+    width: 99px;
+    height: 99px;
+    left: 191px;
+    top: 5px;
+}
+.tools
+{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 323px;
+    top: 14px;
+}

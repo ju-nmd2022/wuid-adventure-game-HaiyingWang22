@@ -1,0 +1,107 @@
+body
+{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: #FFFFFF;
+    background: url("page3.jpg")  no-repeat;
+}
+#tool
+{
+    position: absolute;
+    width: 532px;
+    height: 109px;
+    left: 0px;
+    top: 0px;
+    background: #D9D9D9;
+    border-radius: 0px 0px 15px 0px;
+}
+.tools
+{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 323px;
+    top: 14px;
+}
+.ID
+{
+    position: absolute;
+    width: 80px;
+    height: 66.67px;
+    left: 69px;
+    top: 21px;
+}
+.dice
+{
+    position: absolute;
+    width: 99px;
+    height: 99px;
+    left: 191px;
+    top: 5px;
+}
+#computer
+{
+    position: absolute;
+    width: 248px;
+    height: 225px;
+    left: 920px;
+    top: 60px;
+}
+#ladder
+{
+    position: absolute;
+    width: 292px;
+    height: 518px;
+    left: 1372px;
+    top: 0px;
+}
+#bomb
+{
+    position: absolute;
+    width: 340px;
+    height: 190px;
+    left: 155px;
+    top: 418px;
+}   
+#password
+{
+    display: none;
+    position: absolute;
+    width: 704px;
+    height: 403px;
+    left: 627px;
+    top: 338px;
+    background-color: grey;
+    border-radius: 15px;
+}
+#X
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 622px;
+    top: 33px;
+}
+form
+{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    left: 250px;
+    top: 150px;
+}
+#bnt
+{
+    position: absolute;
+    left: 430px;
+    top: 173px;
+}
+#time
+{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 1820px;
+    top: 10px;
+}
