@@ -103,6 +103,7 @@ time.timer=setInterval('Countdown()', 1000);
 if(sessionStorage.getItem("Time Record") != null)
 {
     var num = sessionStorage.getItem("Time Record");
+
 }
 else
 {
