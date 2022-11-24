@@ -23,7 +23,7 @@ info.onclick=function()
     }
     else
     {
-        alert( 'Need id card to open');
+        alert( 'Requires id card verification');
     }
 }
 
