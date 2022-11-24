@@ -40,7 +40,7 @@ let X = document.getElementById('X');
 if(sessionStorage.getItem("toolicon1")!= null)
 {
     var toolicon = new Image;
-    toolicon.src = 'tools.png';
+    toolicon.src = 'tool.png';
     toolicon.className ='tools';
     toolicon.addEventListener("click", function()
     {

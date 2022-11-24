@@ -3,7 +3,7 @@ let toolbox = document.getElementById("toolbox");
 toolbox.addEventListener("click",function()
 {
     var toolicon = new Image;
-    toolicon.src = 'tools.png';
+    toolicon.src = 'tool.png';
     toolicon.className='tools';
     toolicon.addEventListener("click", function()
     {
